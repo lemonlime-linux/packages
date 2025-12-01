@@ -16,6 +16,10 @@ Packages are the heart of any Linux distribution. Here we maintain sources, patc
 
 See the [docs](https://github.com/lemonlime-linux/docs) for packaging guidelines. Contributions welcome from packagers, testers, and tinkerers!
 
+## Project Roadmap
+
+See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1) for high-level goals, milestones, and progress across all repositories.
+
 ## License
 
 [GNU GPL-3.0](LICENSE)
