@@ -1,0 +1,17 @@
+# Ignore package build outputs
+/packages/build/
+/packages/out/
+*.tar.*
+*.deb
+*.rpm
+*.pkg.tar.*
+
+# Ignore temp files and caches
+*.log
+*.tmp
+.cache/
+*~
+
+# Editor junk
+.DS_Store
+Thumbs.db
